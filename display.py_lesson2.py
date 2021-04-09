@@ -7,7 +7,7 @@ and lit up the night using Python!''')
 #skipping 3 lines
 print('\n\n\n')
 
-# you can also do this by using \n
+# you can also do this  using \n
 
 print('There once was a movie star icon\n who preferred to sleep with the light on.\nThey learned how to code\n device that sure glowed\nand lit up the night using Python!')
 
